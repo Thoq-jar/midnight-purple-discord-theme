@@ -833,7 +833,7 @@ html.theme-light,
 	--display-banner-overflow-background: hsl(var(--primary-700-hsl) / 0.5);
 	--divider-strong: hsl(var(--white-500-hsl) / 0.16);
 	--divider-subtle: hsl(var(--white-500-hsl) / 0.08);
-	--focus-primary: var(--blue-345);
+	--focus-primary: var(--purple-345);
 	--forum-post-extra-media-count-container-background: hsl(var(--primary-660-hsl) / 0.8);
 	--forum-post-tag-background: hsl(var(--primary-660-hsl) / 0.9);
 	--guild-notifications-bottom-sheet-pill-background: var(--primary-700);
@@ -845,12 +845,12 @@ html.theme-light,
 	--icon-muted: var(--primary-400);
 	--icon-primary: var(--primary-130);
 	--icon-secondary: var(--primary-330);
-	--info-box-background: hsl(var(--blue-345-hsl) / 0.1);
+	--info-box-background: hsl(var(--purple-345-hsl) / 0.1);
 	--info-danger-background: hsl(var(--red-400-hsl) / 0.1);
 	--info-danger-foreground: var(--red-400);
 	--info-danger-text: var(--white-500);
-	--info-help-background: hsl(var(--blue-345-hsl) / 0.1);
-	--info-help-foreground: var(--blue-345);
+	--info-help-background: hsl(var(--purple-345-hsl) / 0.1);
+	--info-help-foreground: var(--purple-345);
 	--info-help-text: var(--white-500);
 	--info-positive-background: hsl(var(--green-360-hsl) / 0.1);
 	--info-positive-foreground: var(--green-360);
@@ -972,7 +972,7 @@ html.theme-light,
 	--text-brand: var(--accent-1);
 	--text-danger: var(--red-345);
 	--text-link: var(--accent-1);
-	--text-link-low-saturation: var(--blue-330);
+	--text-link-low-saturation: var(--purple-330);
 	--text-low-contrast: var(--primary-360);
 	--text-message-preview-low-sat: var(--primary-360);
 	--text-muted: var(--text-5);
